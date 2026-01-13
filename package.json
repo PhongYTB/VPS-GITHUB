@@ -1,7 +1,7 @@
 {
-  "name": "vps-manager",
+  "name": "zephyrcloud",
   "version": "1.0.0",
-  "description": "VPS Management System by phongdz",
+  "description": "ZEPHYR CLOUD | PHONG DZ",
   "main": "api/create-vps.js",
   "type": "module",
   "scripts": {
