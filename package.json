@@ -1,5 +1,5 @@
 {
-  "name": "zephyrcloud",
+  "name": "zephyr cloud",
   "version": "1.0.0",
   "description": "ZEPHYR CLOUD | PHONG DZ",
   "main": "api/create-vps.js",
@@ -21,6 +21,6 @@
     "vnc",
     "remote-desktop"
   ],
-  "author": "zephyrcloud",
+  "author": "hieu dz",
   "license": "MIT"
 }
