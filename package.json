@@ -1,5 +1,5 @@
 {
-  "name": "zephyr cloud",
+  "name": "vps-manager",
   "version": "1.0.0",
   "description": "ZEPHYR CLOUD | PHONG DZ",
   "main": "api/create-vps.js",
